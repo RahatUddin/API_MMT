@@ -7,3 +7,13 @@
 
 
 *A console application has also been created to make the API Calls.
+
+== API Definitions ==
+
+GET: api/Category - Gets all categories
+
+GET: api/Product - Gets all products
+
+GET: api/Product/{category} - Gets all products of that {category}
+
+GET: api/Product/Featured - Gets all featured products
